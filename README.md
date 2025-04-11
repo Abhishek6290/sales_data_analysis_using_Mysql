@@ -85,10 +85,11 @@ Note- I'm providing my all query screenshot here. For get the output you need op
 ![vehicle model revenue](https://github.com/user-attachments/assets/6dbd482a-acfd-4d90-8788-57c298a34837)
 
 
-🙋‍♂️ Author
-clear 
+🙋‍♂️ Author <br>
+
+ 
 🚀 Beginner SQL & Data Analyst
-🎓 Bachelor of computer application, Shri Ramswaroop Memorial University
+🎓 Bachelor of Computer Application, Shri Ramswaroop Memorial University
 📧 Contact: abhishekverma6290@gmail.com
 🌐 LinkedIn: https://www.linkedin.com/in/abhishek-verma-52603a313/
 
